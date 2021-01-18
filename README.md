@@ -1,4 +1,4 @@
-#OJO: Este programa es basado en el código de DJeanM en su juego "ClickHunt", por este motivo le puse "ClickHunt2.0". 
+#OJO: Este programa es basado en el primer código de DJeanM(Ambert) en su juego "ClickHunt", por este motivo le puse "ClickHunt2.0". 
 https://github.com/DJeanM/Ambert_108124_project01_ClickHunt
 
 Como se Juega: Este program se trata de dar "click" a los cuadrados verdes intentando evitar los cuadrados rojos y anaranjados. 
